@@ -22,7 +22,7 @@
 ### Установка
 1. Клонируйте репозиторий:
 ```bash
-git clone [https://github.com/AleksandrLeonchenko/test_4_weather]
+git clone [https://github.com/AleksandrLeonchenko/test_4_weather.git]
 ```
 2. Создайте и активируйте виртуальное окружение:
 ```bash
